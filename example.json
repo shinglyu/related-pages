@@ -1,0 +1,26 @@
+[
+    {
+        "time": 1433136786288,
+        "title": "Yahoo\u5947\u6469",
+        "url": "https://tw.yahoo.com/",
+        "visitCount": 1
+    },
+    {
+        "time": 1433136793175,
+        "title": "Google",
+        "url": "https://www.google.com.tw/?gfe_rd=cr&ei=mO5rVcGDPcnA8AXrtID4Bg&gws_rd=ssl",
+        "visitCount": 1
+    },
+    {
+        "time": 1433136809286,
+        "title": "facebook - Google \u641c\u5c0b",
+        "url": "https://www.google.com.tw/?gfe_rd=cr&ei=mO5rVcGDPcnA8AXrtID4Bg&gws_rd=ssl#q=facebook",
+        "visitCount": 1
+    },
+    {
+        "time": 1433136838186,
+        "title": "Welcome to Facebook - Log In, Sign Up or Learn More",
+        "url": "https://www.facebook.com/?_rdr",
+        "visitCount": 1
+    }
+]
